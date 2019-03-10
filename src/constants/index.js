@@ -1,0 +1,10 @@
+export const INPUT_MULTIPLICATION = "X";
+export const INPUT_DIVISION = "/";
+export const INPUT_SUBTRACTION = "-";
+export const INPUT_SUMMATION = "+";
+export const INPUT = "INPUT";
+export const INPUT_DOT = ".";
+export const AC = "A/C";
+export const CALCULATOR = "=";
+export const INPUT_PERCENT = "%";
+export const INPUT_SUBTRACTION_SYMBOL = "+/-";
